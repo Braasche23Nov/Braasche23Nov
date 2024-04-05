@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Braasche23Nov
-- 👀 I’m interested in ... coding coding
+- 👋 Hi, I’m Emily
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...coding for beginners
 - 📫 How to reach me ...here
